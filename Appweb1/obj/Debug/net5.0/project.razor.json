@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Produto/Details.cshtml",
+      "TargetPath": "Views\\Produto\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15649,6 +15654,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Produto/Index.cshtml",
+      "TargetPath": "Views\\Produto\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -15664,13 +15674,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Produto/Edit.cshtml",
+      "TargetPath": "Views\\Produto\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Categorias/Edit.cshtml",
       "TargetPath": "Views\\Categorias\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Produto/Delete.cshtml",
+      "TargetPath": "Views\\Produto\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Categorias/Delete.cshtml",
       "TargetPath": "Views\\Categorias\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Views/Produto/Create.cshtml",
+      "TargetPath": "Views\\Produto\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
