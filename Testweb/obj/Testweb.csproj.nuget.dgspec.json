@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lotz/dio-study/desenvolvimento app com dot-net/Testweb/Testweb.csproj": {}
+  },
+  "projects": {
+    "/home/lotz/dio-study/desenvolvimento app com dot-net/Apiweb1/Apiweb1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lotz/dio-study/desenvolvimento app com dot-net/Apiweb1/Apiweb1.csproj",
+        "projectName": "Apiweb1",
+        "projectPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Apiweb1/Apiweb1.csproj",
+        "packagesPath": "/home/lotz/.nuget/packages/",
+        "outputPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Apiweb1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lotz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Appweb1.csproj": {
+                "projectPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Appweb1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Appweb1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Appweb1.csproj",
+        "projectName": "Appweb1",
+        "projectPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Appweb1.csproj",
+        "packagesPath": "/home/lotz/.nuget/packages/",
+        "outputPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lotz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lotz/dio-study/desenvolvimento app com dot-net/Testweb/Testweb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lotz/dio-study/desenvolvimento app com dot-net/Testweb/Testweb.csproj",
+        "projectName": "Testweb",
+        "projectPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Testweb/Testweb.csproj",
+        "packagesPath": "/home/lotz/.nuget/packages/",
+        "outputPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Testweb/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lotz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/lotz/dio-study/desenvolvimento app com dot-net/Apiweb1/Apiweb1.csproj": {
+                "projectPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Apiweb1/Apiweb1.csproj"
+              },
+              "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Appweb1.csproj": {
+                "projectPath": "/home/lotz/dio-study/desenvolvimento app com dot-net/Appweb1/Appweb1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
