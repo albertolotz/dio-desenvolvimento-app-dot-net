@@ -1,0 +1,10 @@
+
+
+
+
+
+#Instalação Code Gererator
+dotnet tool install -g dotnet-aspnet-codegenerator
+
+#Criação scaffold
+dotnet aspnet-codegenerator controller -name CategoriasController -m Categoria -dc Context --relativeFolderPath Controllers --useDefaultLayout --referenceScriptL

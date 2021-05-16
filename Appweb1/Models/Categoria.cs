@@ -13,7 +13,8 @@ namespace Appweb1.Models
     public string Descricao { get; set; }
 
 
-    public List<Produto> produtos { get; set; }
+    //public List<Produto> produtos { get; set; }
+    //linha removida por causa da API 
 
   }
 }
